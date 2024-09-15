@@ -3,9 +3,11 @@
 Repositório destinado a reunir exercícios em React e alguns dos meus projetos iniciais refatorados.
 
 1. Calculadora 
+
 [![Projeto][1_calculadora]]
 
-2. Cronometro
+2. Cronômetro
+
 [![Projeto][2_cronometro]]
 
 3. Conversor de Moeda
