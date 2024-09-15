@@ -1,0 +1,54 @@
+.converter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  border-radius: 10px;
+  width: 400px;
+  margin: 2rem auto;
+  background-image: linear-gradient(to right, #ffffff, #fcfcfc, #f9f9f9, #f7f7f7, #f4f4f4);
+  border: 1px solid #E8E9EB;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.converter h2 {
+  color: #3D58A4;
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+}
+
+.converter input,
+.converter select {
+  width: 100%;
+  padding: 0.7rem 1rem;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-size: 1rem;
+  color: #495057;
+  background-color: #fff;
+  border: 1px solid #C9C9CA;
+  box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.1);
+}
+.converter input:hover,
+.converter select:hover{
+  border: 2px solid #3D58A4;
+}
+
+.converter input {
+  margin-bottom: 30px;
+}
+
+.converter span,
+.converter p {
+  margin: 0.5rem;
+  font-size: 1rem;
+  color: #495057;
+}
+
+.converter p {
+  font-size: 1.2rem;
+}
+.arrow_icon {
+  width: 25px;
+  margin-top: 20px;
+}
