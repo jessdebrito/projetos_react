@@ -69,7 +69,7 @@ const CurrencyConverter = () => {
         {convertedAmount} {toCurrency}
       </h3>
       <p>
-        {amount} {fromCurrency} valem {convertedAmount} {toCurrency}
+        {amount} {fromCurrency} tem o valor de {convertedAmount} {toCurrency}
       </p>
     </div>
   );
