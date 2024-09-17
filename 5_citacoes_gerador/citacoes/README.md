@@ -1,8 +1,8 @@
-# Previsão do tempo
+# Gerador de citações
 [![Projeto][project-screenshot]]
 
 ## Usado no projeto:
-Vite + React + Axios
+Vite + React + BootStrap
 
 ### Start:
 `npm i axios`
@@ -10,7 +10,7 @@ Vite + React + Axios
 ### Run:
 `npm run dev`
 ### API usada:
-[Open Weather Map API](https://openweathermap.org/)
+[Libre Translate API](https://pt.libretranslate.com/)
 
 
 [project-screenshot]: public/project-screenshot.webp
