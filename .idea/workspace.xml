@@ -5,24 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="844ba486-4b2b-4d84-a20c-fd5c35dc2a0b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/18_blog/src/axios/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/18_blog/src/axios/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18_blog/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/18_blog/src/main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18_blog/src/routes/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/18_blog/src/routes/Home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18_blog/src/routes/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/18_blog/src/routes/Home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18_blog/src/routes/NewPost.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/18_blog/src/routes/NewPost.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_Ty_multistep_form/src/components/ReviewForm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_Ty_multistep_form/src/components/ReviewForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_Ty_multistep_form/src/components/Steps.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_Ty_multistep_form/src/components/Steps.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_Ty_multistep_form/src/components/Thanks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_Ty_multistep_form/src/components/Thanks.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_Ty_multistep_form/src/components/UserForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_Ty_multistep_form/src/hooks/useForm.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="CSS File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2sN07qAkTpS70kHvnKN4F6sDZvq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,14 +49,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/jess/Documents/GitHub/projetos_react",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/jess/Documents/GitHub/php-estudos",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
-    "ts.external.directory.path": "C:\\Users\\jess\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "settings.editor.selected.configurable": "reference.idesettings.emmet.xml",
+    "ts.external.directory.path": "C:\\Users\\jess\\Documents\\GitHub\\projetos_react\\20_Ty_multistep_form\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -59,10 +78,24 @@
       <option name="presentableId" value="Default" />
       <updated>1738280560642</updated>
       <workItem from="1738280561967" duration="2078000" />
+      <workItem from="1738346399491" duration="1098000" />
+      <workItem from="1738347565950" duration="1175000" />
+      <workItem from="1738352528453" duration="118000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/19_JS_multistep_form/src/App.jsx</url>
+          <line>57</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
