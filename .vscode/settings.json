@@ -1,0 +1,9 @@
+{
+    "editor.scrollbar.horizontalScrollbarSize": 12,
+    "editor.scrollbar.verticalScrollbarSize": 12,
+    "editor.scrollbar.ignoreHorizontalScrollbarInContentHeight": false,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.codeLensFontSize": 14,
+    "editor.inlayHints.fontSize": 0,
+    "editor.inlineSuggest.fontFamily": "10"
+}
